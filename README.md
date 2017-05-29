@@ -3,6 +3,7 @@
 ### For employer (求才方):
 
 歡迎至 [issues tab](https://github.com/iostw/jobs/issues/) 創建新的求才 issue！  
+> [label: 求才](https://github.com/iostw/jobs/labels/求才)
 
 - 請附註薪資範圍，以供求職者預估職能程度。
 - 請盡可能加上對應的 Label，幫助求職者過濾職缺訊息。
@@ -13,10 +14,10 @@
 
 ### For employee (求職方):
 
-歡迎張貼個人履歷資訊！
+歡迎至 issues tab 創建新的求職 issue！  
 > [label: 求職](https://github.com/iostw/jobs/labels/%E6%B1%82%E8%81%B7)
 
-- GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，  
+- GitHub issues system 有非常方便的 Label 與 Filter 可以搭配使用。  
 
 -----
 
